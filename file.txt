@@ -1,0 +1,150 @@
+Ime: Ta i Ta
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta2
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta3
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta4
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta5
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta6
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta2
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta3
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta4
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta5
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta6
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta2
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta3
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta4
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta5
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta6
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta2
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta3
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta4
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta5
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta6
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta2
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta3
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta4
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta5
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i Ta6
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
