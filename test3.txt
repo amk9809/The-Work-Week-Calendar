@@ -1,0 +1,200 @@
+Ime: Ta i ta0
+Smena: Popodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta1
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta2
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta3
+Smena: Popodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta4
+Smena: Ceo dan
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta5
+Smena: Ceo dan
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta6
+Smena: Ceo dan
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta7
+Smena: Ceo dan
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta8
+Smena: Popodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta9
+Smena: Popodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta10
+Smena: Ceo dan
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta11
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta12
+Smena: Ceo dan
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta13
+Smena: Ceo dan
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta14
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta15
+Smena: Popodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta16
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta17
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta18
+Smena: Popodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta19
+Smena: Popodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta20
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta21
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta22
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta23
+Smena: Ceo dan
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta24
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta25
+Smena: Ceo dan
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta26
+Smena: Popodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta27
+Smena: Ceo dan
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta28
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta29
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta30
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta31
+Smena: Ceo dan
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta32
+Smena: Ceo dan
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta33
+Smena: Popodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta34
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta35
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta36
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta37
+Smena: Prepodnevna
+Tip treninga: Trostruki
+Izuzeci: Nema
+
+Ime: Ta i ta38
+Smena: Ceo dan
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
+Ime: Ta i ta39
+Smena: Prepodnevna
+Tip treninga: Dvostruki
+Izuzeci: Nema
+
