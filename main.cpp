@@ -161,10 +161,20 @@ void counter(std::string W){
             int n = (W[y] - '0');
             L[n]++;
         }
-    }for(int i=0;i<list_size();i++){
-        std::cout<<"The user, number "<<i<<", appears "<<L[i]<<" times."<<std::endl;
+    }
+    node* temp = head;
+    for(int i=0;i<list_size();i++){
+        std::cout<<"The user, number "<<i<<", appears "<<L[i]<<" times.";
+        std::cout<<" The user should appear "<<temp->TOT<<" times.";
+        if(L[i] == temp->TOT){
+            std::cout<<" All correct!"<<std::endl;
+        }else{
+            std::cout<<" Wrong amount!"<<std::endl;
+        }
+        temp = temp->next;
     }
 }
+
 
 void divider(std::string W){
     std::string w = W;
@@ -197,29 +207,26 @@ std::string calculator(){
     int count1 = 0, count2 = 0;
     for(int i=0;i<list_size();i++){
         if(D[i]==0){
-            count1++;
+            count1 = count1 + T[i];
         }else{
-            count2++;
+            count2 = count2 + T[i];
         }
     }
 
 
-    //preparation done//
-
-
-    int n1 = 0, n2 = 0, n = 0, c1 = (count1)%5, c2 = (count2)%5;
+    int n1 = 0, n2 = 0, n = 0, c1 = (count1)%15, c2 = (count2)%15;
     bool k1 = true, k2 = true;
     std::cout<<std::endl<<"Counter1: "<<count1<<std::endl<<"Counter2: "<<count2<<std::endl;
     for(int i=0;i<5;i++){
         n1 = n1 + c1;
-        int t = int(count1/5);
-        if(n1>=5){
+        int t = int(count1/15);
+        if(n1>=15){
             t++;
             k1 = false;
         }
+        int mem1[t*3];
         std::cout<<std::endl<<"t: "<<t<<std::endl;
         for(int y=0;y<t;y++){
-            // add array of 3 for memory
             for(int j=0;j<3;j++){
                 bool loop_breaker = false;
                 if(check_array(T)){y=420;i=420;j=420;}else{
@@ -229,12 +236,17 @@ std::string calculator(){
                         if(n>=list_size()){
                             n=0;
                             loop_counter++;
-                            if(loop_counter>1){
+                            if(loop_counter>2){
                                 loop_breaker = true;
+                            }
+                        }for(int u=0;u<3*y+j;u++){
+                            if(mem1[u] == n){
+                                n++;
                             }
                         }
                     }if(loop_breaker == false){
                         M = M + std::to_string(n) + '/';
+                        mem1[3*y+j] = n; 
                         T[n] = T[n]-1;
                         std::cout<<n<<" : "<<T[n]<<"   ";
                         n++;
@@ -248,16 +260,17 @@ std::string calculator(){
             M = M + '-';    
         }if(k1==false){
             k1 = true;
-            n1 = n1-5;
+            n1 = n1-14;
         }
         
         
         n2 = n2 + c2;
-        t = int(count2/5);
-        if(n2>=5){
+        t = int(count2/15);
+        if(n2>=15){
             t++;
             k2 = false;
         }
+        int mem2[t*3];
         std::cout<<std::endl<<"t: "<<t<<std::endl;
         for(int y=0;y<t;y++){
             for(int j=0;j<3;j++){
@@ -269,12 +282,17 @@ std::string calculator(){
                         if(n>=list_size()){
                             n=0;
                             loop_counter++;
-                            if(loop_counter>1){
+                            if(loop_counter>2){
                                 loop_breaker = true;
+                            }for(int u=0;u<3*y+j;u++){
+                                if(mem2[u] == n){
+                                    
+                                }
                             }
                         }
                     }if(loop_breaker == false){ 
                         M = M + std::to_string(n) + '/';
+                        mem2[3*y+j] = n; 
                         T[n] = T[n]-1;
                         std::cout<<n<<" : "<<T[n]<<"   ";
                         n++;
@@ -285,7 +303,7 @@ std::string calculator(){
                 }
             }if(k2==false){
             k2 = true;
-            n2 = n2-5;
+            n2 = n2-14;
             }
             if(y==t-1){std::cout<<"--  Day "<<i+1<<" has "<<y+1<<" afternoon trainings."<<std::endl;}
             M = M + '-'; 
